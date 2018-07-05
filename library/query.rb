@@ -80,9 +80,23 @@ module Query
     end
   end
   module Agencies
+    # Obtains a list of all agencies within the database state
     def self.all
       "select agency_ori, agency_name, nibrs_reported
       from agency_participation"
+    end
+  end
+  module Database
+    # Obtains live row counts for all user tables in the database
+    def self.rows
+      "select schemaname, relname, n_live_tup
+      from pg_stat_user_tables p
+      order by p.n_live_tup desc"
+    end
+    def self.columns
+      "select count(*) 
+      from information_schema.columns
+      where table_schema not in ('pg_catalog', 'information_schema')"
     end
   end
 end

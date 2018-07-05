@@ -1,5 +1,6 @@
 require 'pg'
 class Database
+  attr_reader :database
   def initialize database, username
     @database = database
     @username = username

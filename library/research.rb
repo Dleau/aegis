@@ -18,4 +18,18 @@ module Research
   module Agencies
 
   end
+  module Database
+    # Returns an approximate number of rows in the database
+    def self.row_count tables
+      total = 0
+      tables.each do |table|
+        total = total + table['n_live_tup'].to_i
+      end
+      total
+    end
+    # Returns an approximate number of columns in the database
+    def self.column_count count
+      count[0]['count'].to_i
+    end
+  end
 end
