@@ -86,4 +86,23 @@ module Queries
       from agency_participation"
     end
   end
+  module Database
+    # Obtains list of tables in database
+    def self.tables
+      "select relname
+      from pg_stat_user_tables p
+      order by p.relname"
+    end
+    # Obtains number of rows in supplied table
+    def self.row_count table
+      "select count(*)
+      from #{table}"
+    end
+    # Obtains the number of columns in supplied table
+    def self.column_count table
+      "select count(*)
+      from information_schema.columns
+      where table_name = '#{table}'"
+    end
+  end
 end
