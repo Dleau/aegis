@@ -65,6 +65,20 @@ module Dictionary
      '26G': 'Hacking/Computer Invasion',
      '720': 'Animal Cruelty'}
   end
+  def self.race_ids
+    {'0': 'Unknown',
+    '1': 'White',
+    '2': 'Black or African American',
+    '3': 'American Indian or Alaska Native',
+    '4': 'Asian',
+    '5': 'Asian',
+    '6': 'Chinese',
+    '7': 'Japanese',
+    '8': 'Native Hawaiian or Other Pacific Islander',
+    '9': 'Other',
+    '98': 'Multiple',
+    '99': 'Not Specified'}
+  end
 end
 
 # s = '{'

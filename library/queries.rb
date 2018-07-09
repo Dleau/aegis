@@ -79,6 +79,15 @@ module Queries
       and ot.offense_code = '#{code}'"
     end
   end
+  module Offender
+    # Obtains a list of all offenders associated with a provided
+    # incident id
+    def self.offenders incident_id
+      "select o.*
+      from nibrs_offender o
+      where incident_id = '#{incident_id}'"
+    end
+  end
   module Agencies
     # Obtains a list of all agencies within the database state
     def self.all
