@@ -94,6 +94,12 @@ module Queries
       "select agency_ori, agency_name, nibrs_reported
       from agency_participation"
     end
+    # Obtains a cde_agencies entry based on agency ori
+    def self.agency ori
+      "select a.*
+      from cde_agencies a
+      where ori = '#{ori}'"
+    end
   end
   module Database
     # Obtains list of tables in database
