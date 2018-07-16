@@ -1,0 +1,128 @@
+==> agency_participation.csv <==
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+
+==> cde_agencies.csv <==
+agency_id,ori,legacy_ori,agency_name,short_name,agency_type_id,agency_type_name,tribe_id,campus_id,city_id,city_name,state_id,state_abbr,primary_county_id,primary_county,primary_county_fips,agency_status,submitting_agency_id,submitting_sai,submitting_name,submitting_state_abbr,start_year,dormant_year,current_year,revised_rape_start,current_nibrs_start_year,population,population_group_code,population_group_desc,population_source_flag,suburban_area_flag,core_city_flag,months_reported,nibrs_months_reported,past_10_years_reported,covered_by_id,covered_by_ori,covered_by_name,staffing_year,total_officers,total_civilians,icpsr_zip,icpsr_lat,icpsr_lng
+
+==> nibrs_activity_type.csv <==
+activity_type_id,activity_type_code,activity_type_name
+
+==> nibrs_age.csv <==
+age_id,age_code,age_name
+
+==> nibrs_arrestee.csv <==
+arrestee_id,incident_id,arrestee_seq_num,arrest_num,arrest_date,arrest_type_id,multiple_indicator,offense_type_id,age_id,age_num,sex_code,race_id,ethnicity_id,resident_code,under_18_disposition_code,clearance_ind,ff_line_number,age_range_low_num,age_range_high_num
+
+==> nibrs_arrestee_weapon.csv <==
+arrestee_id,weapon_id,nibrs_arrestee_weapon_id
+
+==> nibrs_arrest_type.csv <==
+arrest_type_id,arrest_type_code,arrest_type_name
+
+==> nibrs_assignment_type.csv <==
+assignment_type_id,assignment_type_code,assignment_type_name
+
+==> nibrs_bias_list.csv <==
+bias_id,bias_code,bias_name
+
+==> nibrs_bias_motivation.csv <==
+bias_id,offense_id
+
+==> nibrs_circumstances.csv <==
+circumstances_id,circumstances_type,circumstances_code,circumstances_name
+
+==> nibrs_cleared_except.csv <==
+cleared_except_id,cleared_except_code,cleared_except_name
+
+==> nibrs_criminal_act.csv <==
+criminal_act_id,offense_id
+
+==> nibrs_criminal_act_type.csv <==
+criminal_act_id,criminal_act_code,criminal_act_name
+
+==> nibrs_drug_measure_type.csv <==
+drug_measure_type_id,drug_measure_code,drug_measure_name
+
+==> nibrs_ethnicity.csv <==
+ethnicity_id,ethnicity_code,ethnicity_name,hc_flag
+
+==> nibrs_incident.csv <==
+agency_id,incident_id,nibrs_month_id,incident_number,cargo_theft_flag,submission_date,incident_date,report_date_flag,incident_hour,cleared_except_id,cleared_except_date,incident_status,data_home,ddocname,orig_format,ff_line_number,did
+
+==> nibrs_injury.csv <==
+injury_id,injury_code,injury_name
+
+==> nibrs_justifiable_force.csv <==
+justifiable_force_id,justifiable_force_code,justifiable_force_name
+
+==> nibrs_location_type.csv <==
+location_id,location_code,location_name
+
+==> nibrs_month.csv <==
+nibrs_month_id,agency_id,month_num,data_year,reported_status,report_date,prepared_date,update_flag,orig_format,ff_line_number,data_home,ddocname,did
+
+==> nibrs_offender.csv <==
+offender_id,incident_id,offender_seq_num,age_id,age_num,sex_code,race_id,ethnicity_id,ff_line_number,age_range_low_num,age_range_high_num
+
+==> nibrs_offense.csv <==
+offense_id,incident_id,offense_type_id,attempt_complete_flag,location_id,num_premises_entered,method_entry_code,ff_line_number
+
+==> nibrs_offense_type.csv <==
+offense_type_id,offense_code,offense_name,crime_against,ct_flag,hc_flag,hc_code,offense_category_name
+
+==> nibrs_prop_desc_type.csv <==
+prop_desc_id,prop_desc_code,prop_desc_name
+
+==> nibrs_property.csv <==
+property_id,incident_id,prop_loss_id,stolen_count,recovered_count,ff_line_number
+
+==> nibrs_property_desc.csv <==
+property_id,prop_desc_id,property_value,date_recovered,nibrs_prop_desc_id
+
+==> nibrs_prop_loss_type.csv <==
+prop_loss_id,prop_loss_name
+
+==> nibrs_relationship.csv <==
+relationship_id,relationship_code,relationship_name
+
+==> nibrs_suspected_drug.csv <==
+suspected_drug_type_id,property_id,est_drug_qty,drug_measure_type_id,nibrs_suspected_drug_id
+
+==> nibrs_suspected_drug_type.csv <==
+suspected_drug_type_id,suspected_drug_code,suspected_drug_name
+
+==> nibrs_suspect_using.csv <==
+suspect_using_id,offense_id
+
+==> nibrs_using_list.csv <==
+suspect_using_id,suspect_using_code,suspect_using_name
+
+==> nibrs_victim_circumstances.csv <==
+victim_id,circumstances_id,justifiable_force_id
+
+==> nibrs_victim.csv <==
+victim_id,incident_id,victim_seq_num,victim_type_id,assignment_type_id,activity_type_id,outside_agency_id,age_id,age_num,sex_code,race_id,ethnicity_id,resident_status_code,agency_data_year,ff_line_number,age_range_low_num,age_range_high_num
+
+==> nibrs_victim_injury.csv <==
+victim_id,injury_id
+
+==> nibrs_victim_offender_rel.csv <==
+victim_id,offender_id,relationship_id,nibrs_victim_offender_id
+
+==> nibrs_victim_offense.csv <==
+victim_id,offense_id
+
+==> nibrs_victim_type.csv <==
+victim_type_id,victim_type_code,victim_type_name
+
+==> nibrs_weapon.csv <==
+weapon_id,offense_id,nibrs_weapon_id
+
+==> nibrs_weapon_type.csv <==
+weapon_id,weapon_code,weapon_name,shr_flag
+
+==> ref_race.csv <==
+race_id,race_code,race_desc,sort_order,start_year,end_year,notes
+
+==> ref_state.csv <==
+state_id,division_id,state_name,state_code,state_abbr,state_postal_abbr,state_fips_code,state_pub_freq_months
