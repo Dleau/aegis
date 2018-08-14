@@ -1,7 +1,7 @@
 require_relative '../library/queries'
 require_relative '../library/database'
 
-database = Database.new 'RI-2016', 'postgres'
+database = Database.new 'MA-2016', 'postgres'
 total_cells = 0
 
 query = Queries::Database.tables

@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+
+gem "pg"
+gem "descriptive-statistics"
+gem "googlecharts"
+gem "terminal-table"
