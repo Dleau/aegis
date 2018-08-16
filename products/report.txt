@@ -1,0 +1,505 @@
+Handling Not Specified
+Handling Justifiable Homicide
+Handling False Pretenses/Swindle/Confidence Game
+Handling Statutory Rape
+Handling Sexual Assault With An Object
+Handling Destruction/Damage/Vandalism of Property
+Handling Family Offenses
+Handling Theft of Motor Vehicle Parts or Accessories
+Handling Pornography/Obscene Material
+Handling Sports Tampering
+Handling Driving Under the Influence
+Handling Counterfeiting/Forgery
+Handling Welfare Fraud
+Handling Pocket-picking
+Handling Theft From Motor Vehicle
+Handling Assisting or Promoting Prostitution
+Handling Drug/Narcotic Violations
+Handling Wire Fraud
+Handling Purse-snatching
+Handling Runaway
+Handling Arson
+Handling Motor Vehicle Theft
+Handling Drunkenness
+Handling Shoplifting
+Handling Operating/Promoting/Assisting Gambling
+Handling Bad Checks
+Handling Extortion/Blackmail
+Handling Aggravated Assault
+Handling Stolen Property Offenses
+Handling Kidnapping/Abduction
+Handling Prostitution
+Handling Betting/Wagering
+Handling Murder and Nonnegligent Manslaughter
+Handling Peeping Tom
+Handling Trespass of Real Property
+Handling Drug Equipment Violations
+Handling Rape
+Handling Embezzlement
+Handling Negligent Manslaughter
+Handling Weapon Law Violations
+Handling Robbery
+Handling Credit Card/Automated Teller Machine Fraud
+Handling Curfew/Loitering/Vagrancy Violations
+Handling Sodomy
+Handling Intimidation
+Handling All Other Larceny
+Handling Impersonation
+Handling Theft From Building
+Handling All Other Offenses
+Handling Burglary/Breaking & Entering
+Handling Theft From Coin-Operated Machine or Device
+Handling Simple Assault
+Handling Liquor Law Violations
+Handling Disorderly Conduct
+Handling Gambling Equipment Violation
+Handling Incest
+Handling Fondling
+Handling Bribery
+Handling Human Trafficking
+Handling Human Trafficking
+Handling Purchasing Prostitution
+Handling Identity Theft
+Handling Hacking/Computer Invasion
+Handling Animal Cruelty
+Not Specified
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Justifiable Homicide
+agency_count: 0
+agency_rate: 0.0
+state_count: 2
+state_rate: 0.18952782931881804
+multiplier: 0.0
+
+False Pretenses/Swindle/Confidence Game
+agency_count: 710
+agency_rate: 395.49470259912437
+state_count: 2619
+state_rate: 248.18669249299222
+multiplier: 1.593537101552258
+
+Statutory Rape
+agency_count: 4
+agency_rate: 2.2281391695725317
+state_count: 28
+state_rate: 2.6533896104634525
+multiplier: 0.8397331325886044
+
+Sexual Assault With An Object
+agency_count: 4
+agency_rate: 2.2281391695725317
+state_count: 36
+state_rate: 3.4115009277387247
+multiplier: 0.6531257697911367
+
+Destruction/Damage/Vandalism of Property
+agency_count: 2008
+agency_rate: 1118.5258631254108
+state_count: 7909
+state_rate: 749.4878010412659
+multiplier: 1.492387016268229
+
+Family Offenses
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Theft of Motor Vehicle Parts or Accessories
+agency_count: 0
+agency_rate: 0.0
+state_count: 850
+state_rate: 80.54932746049766
+multiplier: 0.0
+
+Pornography/Obscene Material
+agency_count: 1
+agency_rate: 0.5570347923931329
+state_count: 175
+state_rate: 16.583685065396576
+multiplier: 0.03358932530354418
+
+Sports Tampering
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Driving Under the Influence
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Counterfeiting/Forgery
+agency_count: 50
+agency_rate: 27.851739619656644
+state_count: 553
+state_rate: 52.40444480665318
+multiplier: 0.5314766661953193
+
+Welfare Fraud
+agency_count: 5
+agency_rate: 2.7851739619656644
+state_count: 8
+state_rate: 0.7581113172752721
+multiplier: 3.6738324550751438
+
+Pocket-picking
+agency_count: 17
+agency_rate: 9.469591470683259
+state_count: 33
+state_rate: 3.1272091837604976
+multiplier: 3.0281285690316335
+
+Theft From Motor Vehicle
+agency_count: 1898
+agency_rate: 1057.2520359621662
+state_count: 3962
+state_rate: 375.4546298805785
+multiplier: 2.8159248863130233
+
+Assisting or Promoting Prostitution
+agency_count: 4
+agency_rate: 2.2281391695725317
+state_count: 15
+state_rate: 1.4214587198911353
+multiplier: 1.5675018474987281
+
+Drug/Narcotic Violations
+agency_count: 487
+agency_rate: 271.2759438954557
+state_count: 3585
+state_rate: 339.7286340539813
+multiplier: 0.7985077403053145
+
+Wire Fraud
+agency_count: 0
+agency_rate: 0.0
+state_count: 136
+state_rate: 12.887892393679627
+multiplier: 0.0
+
+Purse-snatching
+agency_count: 19
+agency_rate: 10.583661055469525
+state_count: 33
+state_rate: 3.1272091837604976
+multiplier: 3.3843789889177085
+
+Runaway
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Arson
+agency_count: 26
+agency_rate: 14.482904602221454
+state_count: 140
+state_rate: 13.266948052317263
+multiplier: 1.0916530723651856
+
+Motor Vehicle Theft
+agency_count: 103
+agency_rate: 57.374583616492686
+state_count: 1114
+state_rate: 105.56700093058164
+multiplier: 0.5434897563701829
+
+Drunkenness
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Shoplifting
+agency_count: 268
+agency_rate: 149.2853243613596
+state_count: 2156
+state_rate: 204.31100000568583
+multiplier: 0.7306768816030713
+
+Operating/Promoting/Assisting Gambling
+agency_count: 4
+agency_rate: 2.2281391695725317
+state_count: 30
+state_rate: 2.8429174397822705
+multiplier: 0.7837509237493641
+
+Bad Checks
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Extortion/Blackmail
+agency_count: 3
+agency_rate: 1.6711043771793985
+state_count: 26
+state_rate: 2.4638617811446344
+multiplier: 0.6782459917061804
+
+Aggravated Assault
+agency_count: 532
+agency_rate: 296.34250955314667
+state_count: 1356
+state_rate: 128.49986827815863
+multiplier: 2.3061697535102965
+
+Stolen Property Offenses
+agency_count: 41
+agency_rate: 22.838426488118447
+state_count: 521
+state_rate: 49.3719995375521
+multiplier: 0.46257852025514284
+
+Kidnapping/Abduction
+agency_count: 4
+agency_rate: 2.2281391695725317
+state_count: 34
+state_rate: 3.2219730984199066
+multiplier: 0.6915449327200272
+
+Prostitution
+agency_count: 8
+agency_rate: 4.456278339145063
+state_count: 41
+state_rate: 3.8853205010357694
+multiplier: 1.1469525713405329
+
+Betting/Wagering
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Murder and Nonnegligent Manslaughter
+agency_count: 10
+agency_rate: 5.570347923931329
+state_count: 29
+state_rate: 2.7481535251228615
+multiplier: 2.02694204417939
+
+Peeping Tom
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Trespass of Real Property
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Drug Equipment Violations
+agency_count: 0
+agency_rate: 0.0
+state_count: 7
+state_rate: 0.6633474026158631
+multiplier: 0.0
+
+Rape
+agency_count: 99
+agency_rate: 55.14644444692016
+state_count: 338
+state_rate: 32.03020315488025
+multiplier: 1.7217013635618426
+
+Embezzlement
+agency_count: 21
+agency_rate: 11.69773064025579
+state_count: 185
+state_rate: 17.53132421199067
+multiplier: 0.667247408056891
+
+Negligent Manslaughter
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Weapon Law Violations
+agency_count: 265
+agency_rate: 147.6142199841802
+state_count: 935
+state_rate: 88.60426020654742
+multiplier: 1.6659946106437018
+
+Robbery
+agency_count: 301
+agency_rate: 167.667472510333
+state_count: 545
+state_rate: 51.646333489377916
+multiplier: 3.246454514429705
+
+Credit Card/Automated Teller Machine Fraud
+agency_count: 69
+agency_rate: 38.43540067512617
+state_count: 879
+state_rate: 83.29748098562052
+multiplier: 0.46142332541558123
+
+Curfew/Loitering/Vagrancy Violations
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Sodomy
+agency_count: 7
+agency_rate: 3.89924354675193
+state_count: 59
+state_rate: 5.591070964905132
+multiplier: 0.6974054829973154
+
+Intimidation
+agency_count: 60
+agency_rate: 33.42208754358797
+state_count: 711
+state_rate: 67.37714332283981
+multiplier: 0.49604488844896455
+
+All Other Larceny
+agency_count: 1414
+agency_rate: 787.6471964438899
+state_count: 4957
+state_rate: 469.7447249666905
+multiplier: 1.6767558092317947
+
+Impersonation
+agency_count: 2
+agency_rate: 1.1140695847862658
+state_count: 229
+state_rate: 21.700936457004666
+multiplier: 0.05133739675214175
+
+Theft From Building
+agency_count: 562
+agency_rate: 313.05355332494065
+state_count: 2347
+state_rate: 222.41090770563295
+multiplier: 1.4075458643389729
+
+All Other Offenses
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Burglary/Breaking & Entering
+agency_count: 1165
+agency_rate: 648.9455331379997
+state_count: 3679
+state_rate: 348.63644203196577
+multiplier: 1.8613818146942287
+
+Theft From Coin-Operated Machine or Device
+agency_count: 0
+agency_rate: 0.0
+state_count: 2
+state_rate: 0.18952782931881804
+multiplier: 0.0
+
+Simple Assault
+agency_count: 1898
+agency_rate: 1057.2520359621662
+state_count: 6921
+state_rate: 655.8610533577698
+multiplier: 1.6120061262205168
+
+Liquor Law Violations
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Disorderly Conduct
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+
+Gambling Equipment Violation
+agency_count: 0
+agency_rate: 0.0
+state_count: 1
+state_rate: 0.09476391465940902
+multiplier: 0.0
+
+Incest
+agency_count: 1
+agency_rate: 0.5570347923931329
+state_count: 2
+state_rate: 0.18952782931881804
+multiplier: 2.939065964060115
+
+Fondling
+agency_count: 64
+agency_rate: 35.65022671316051
+state_count: 255
+state_rate: 24.1647982381493
+multiplier: 1.4752958564693912
+
+Bribery
+agency_count: 0
+agency_rate: 0.0
+state_count: 2
+state_rate: 0.18952782931881804
+multiplier: 0.0
+
+Human Trafficking
+agency_count: 1
+agency_rate: 0.5570347923931329
+state_count: 1
+state_rate: 0.09476391465940902
+multiplier: 5.87813192812023
+
+Purchasing Prostitution
+agency_count: 0
+agency_rate: 0.0
+state_count: 3
+state_rate: 0.28429174397822704
+multiplier: 0.0
+
+Identity Theft
+agency_count: 0
+agency_rate: 0.0
+state_count: 2
+state_rate: 0.18952782931881804
+multiplier: 0.0
+
+Hacking/Computer Invasion
+agency_count: 0
+agency_rate: 0.0
+state_count: 1
+state_rate: 0.09476391465940902
+multiplier: 0.0
+
+Animal Cruelty
+agency_count: 0
+agency_rate: 0.0
+state_count: 0
+state_rate: 0.0
+multiplier: NaN
+

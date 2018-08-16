@@ -4,7 +4,7 @@ require_relative '../library/dictionary.rb'
 
 require 'terminal-table'
 
-DATABASE = Database.new 'MA-2016', 'postgres'
+DATABASE = Database.new 'RI-2016', 'postgres'
 
 def get_agency_population ori
   query = Queries::Agencies.agency ori
